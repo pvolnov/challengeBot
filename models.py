@@ -6,7 +6,7 @@ from playhouse.postgres_ext import PostgresqlExtDatabase, ArrayField, JSONField
 
 bdname = 'fizrabot'
 bduser = 'postgres'
-bdpassword = 'nef441'
+bdpassword = '-'
 bdhost = 'sw.neafiol.site'
 bdport = 5432
 
